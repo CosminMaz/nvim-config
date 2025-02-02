@@ -1,2 +1,3 @@
 # nvim-config
-simple neovin configuration with lua.
+Simple neovin configuration with lua.
+Doc: https://www.youtube.com/watch?v=zHTeCSVAFNY&t=603s
